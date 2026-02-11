@@ -1,6 +1,0 @@
-Average BMI by Age Group and Disease Status:
-Disease_Status          0          1
-Age                                 
-Middle Aged     23.821705  25.306212
-Senior          23.020563  25.027151
-Young Adult     23.524050  25.812342
