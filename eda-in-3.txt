@@ -1,4 +1,0 @@
-Percentage of Smokers by Disease Status:
-
-0 (No Disease): 51.24%
-1 (Has Disease): 28.73%
