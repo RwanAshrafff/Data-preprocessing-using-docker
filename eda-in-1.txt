@@ -1,4 +1,0 @@
-Distribution of Disease Status:
-Disease_Status
-1    87.875752
-0    12.124248
