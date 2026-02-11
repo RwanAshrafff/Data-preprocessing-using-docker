@@ -1,4 +1,0 @@
-Cluster Sizes:
-Cluster 0: 472
-Cluster 1: 321
-Cluster 2: 205
