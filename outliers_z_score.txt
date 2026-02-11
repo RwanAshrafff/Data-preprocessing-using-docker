@@ -1,8 +1,0 @@
-Outliers Detected using Z-Score (Threshold = 3):
-
-Column: BMI
-    - Row 53: Z-Score = -3.52
-    - Row 705: Z-Score = -3.34
-Column: Smoking_Status
-Column: Exercise_Frequency
-Column: Disease_Status
